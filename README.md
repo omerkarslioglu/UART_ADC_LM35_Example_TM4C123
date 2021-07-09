@@ -1,0 +1,2 @@
+# UART_ADC_LM35_Example_TM4C123
+UART &amp; ADC LM35 Example On TM4C123
